@@ -15,7 +15,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
-    "@lingui/cli": "3.0.0-13",
+    "@lingui/cli": "3.14.0",
     "@lingui/core": "3.0.0-13",
     "@lingui/macro": "3.0.0-13",
     "@lingui/react": "3.0.0-13",
