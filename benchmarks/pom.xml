@@ -97,7 +97,7 @@
     <dependency>
       <groupId>com.google.protobuf</groupId>
       <artifactId>protobuf-java</artifactId>
-      <version>3.14.0</version>
+      <version>3.16.3</version>
     </dependency>
 
     <dependency>
@@ -222,7 +222,7 @@
               <source>1.8</source>
               <target>1.8</target>
               <!-- scrub errorprone compiler args -->
-              <compilerArgs />
+              <compilerArgs/>
             </configuration>
           </execution>
         </executions>
