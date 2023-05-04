@@ -45,7 +45,7 @@
     <main.signature.artifact>java18</main.signature.artifact>
 
     <!-- override to set exclusions per-project -->
-    <errorprone.args />
+    <errorprone.args/>
     <errorprone.version>2.4.0</errorprone.version>
 
     <zipkin-proto3.version>1.0.0</zipkin-proto3.version>
@@ -69,7 +69,7 @@
     <spring-boot.version>2.5.14</spring-boot.version>
     <spring.version>5.3.23</spring.version>
     <!-- override spring dependency version, CVE-2022-25857 -->
-    <snakeyaml.version>1.33</snakeyaml.version>
+    <snakeyaml.version>2.0</snakeyaml.version>
 
     <!-- MySQL connector is GPL, even if it has an OSS exception.
          https://www.mysql.com/about/legal/licensing/foss-exception/
